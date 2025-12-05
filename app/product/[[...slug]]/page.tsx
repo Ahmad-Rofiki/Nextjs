@@ -103,7 +103,7 @@ export default async function ProductPage(props: ProductPageProps) {
                     {item.rating}
                   </span>
                 </div>
-                <a href="#">
+                <a >
                   <h5 className="text-xl text-heading font-semibold tracking-tight truncate">
                     {item.title}
                   </h5>
